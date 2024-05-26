@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm a</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img rel ="image" width = 400 src= "https://in.images.search.yahoo.com/yhs/search;_ylt=AwrKASpH4VJmVxsv6B7nHgx.;_ylu=Y29sbwMEcG9zAzEEdnRpZAMEc2VjA3Nj?p=frontend+developers+gif+images+carton&vm=r&type=fc_AC934C13286_s58_g_e_d021624_n9998_c999&param1=7&param2=eJwtjEEKgzAQRa8ySwWJk6hRcdsTdCsuUk11MCaiFktP35GWv3n%2FDfNHGtqmu98koqpQt0nnudd1XTFeJ1RSq5xL%2F%2FNMtDKqUpRCKhSyQHajDSzJM74M0xI%2B5JxJC4EQneSHcO7gD5AosAEWOm%2FgrfMYzLo6e9rHTEdaZKXINETzdCwuAUezhdH2c4ihn7aw2FQqXrwCu3majf4vX9BzOtg%3D&hsimp=yhs-2461&hspart=fc&ei=UTF-8&fr=yhs-fc-2461#id=112&iurl=http%3A%2F%2Fwww.pramukhdigital.com%2Fwp-content%2Fuploads%2F2018%2F07%2FNew-PNC-Animated-Banners.gif&action=click">
-
+<img align="centre" width = 400 src= " http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyavilbersahan&label=Profile%20views&color=0e75b6&style=flat" alt="sathyavilbersahan" /> </p>
 
 - 🌱 I’m currently learning **Bootstrap , Mernstack**
