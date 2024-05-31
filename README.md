@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Sathyavilbersahan/github](Sathyavilbersahan/github)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, BOOTSTRAP, TAILWIND CSS
 
 - 📫 How to reach me **sathyavilber@gmail.com**
 
